@@ -130,6 +130,8 @@ Deployment (Flask Web App)
 ## 🚀 Deployment (Flask Web App)
 
 Model Random Forest dideploy sebagai web application menggunakan Flask, dengan tampilan form input data pelanggan dan hasil prediksi real-time.
+<img width="773" height="828" alt="image" src="https://github.com/user-attachments/assets/10bb6c91-cae5-4c50-8b82-1e9e00c79c98" />
+
 
 ### Fitur Web App
 - Form input 18 fitur pelanggan
